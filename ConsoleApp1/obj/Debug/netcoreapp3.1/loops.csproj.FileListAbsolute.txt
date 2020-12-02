@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\bin\Debug\netcoreapp3.1\loops.exe
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\bin\Debug\netcoreapp3.1\loops.deps.json
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\bin\Debug\netcoreapp3.1\loops.runtimeconfig.json
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\bin\Debug\netcoreapp3.1\loops.runtimeconfig.dev.json
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\bin\Debug\netcoreapp3.1\loops.dll
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\bin\Debug\netcoreapp3.1\loops.pdb
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\obj\Debug\netcoreapp3.1\loops.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\obj\Debug\netcoreapp3.1\loops.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\obj\Debug\netcoreapp3.1\loops.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\obj\Debug\netcoreapp3.1\loops.dll
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\obj\Debug\netcoreapp3.1\loops.pdb
+C:\Users\Administrateur\Desktop\osa\loops\ConsoleApp1\obj\Debug\netcoreapp3.1\loops.genruntimeconfig.cache
