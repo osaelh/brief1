@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1"
+    "\\calculator"
   ],
-  "SelectedNode": "\\ConsoleApp1\\loops.csproj",
+  "SelectedNode": "\\calculator\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
